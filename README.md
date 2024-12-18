@@ -10,4 +10,5 @@ notlar:
 dökümantasyon kısmında açıklanmaktadır.
 5- npx prisma db push bu kodu çalıştırmadan önce mongodb bağlantı adresinin sonuna colection ismi vermeyi unutmayın. DATABASE_URL="mongodb+srv://admin:admin@cluster0.sbi7u.mongodb.net/shop"
 # NextjsPro
-# NextjsPro
+
+![nextjspro](https://github.com/user-attachments/assets/19244c35-804f-4cff-8c53-f6ba7669b91a)
